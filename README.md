@@ -73,11 +73,6 @@ Many people suffering from mental stress, loneliness, or anxiety don't feel safe
 
 ---
 
-## ⚠️ Note
-Due to post-hackathon cleanup and environment setup limitations, the full application may not run end-to-end at the moment. The repo showcases our logic and UI integration. A demo version is in progress.
-
----
-
 ## 📬 Want to collaborate or see the demo?
-Let’s connect! Reach out on [LinkedIn/email].
+Let’s connect! Reach out on www.linkedin.com/in/ishwara-sinha.
 
